@@ -2,4 +2,5 @@ print("hello world")
 name = input ("whats your name")
 print (name)
 print ("==" * 70)
-
+say_please = input ("whats my name")
+print (say_please)
